@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Aa</string>
+    <string name="app_name">#</string>
     <string name="add">Add</string>
     <string name="todo_hint">Add a task</string>
     <string name="empty_todo_error">Please enter a task</string>
